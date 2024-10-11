@@ -1,0 +1,11 @@
+@media (min-width: 600px) and (max-width: 1320px) {
+  .acl-h2{
+    padding-top: 50px;
+    padding-left: 0px;
+    margin: auto;
+  }
+  .acl-section {
+    padding: 0rem 0; /* Adjust padding */
+  }
+  }
+  
